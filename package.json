@@ -25,7 +25,7 @@
   "dependencies": {
     "etag": "^1.8.1",
     "mime-types": "^2.1.31",
-    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v19.2.0"
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.3.0"
   },
   "engines": {
     "node": ">= 10.x.x"
